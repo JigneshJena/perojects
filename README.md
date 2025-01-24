@@ -11,3 +11,12 @@
 - Simple Client-server architecture based operations.
 - Some sort of database integration for storing the data.
 > - *more to be added later*
+
+#### Forms
+- Login
+- Profile(client details)
+- Query System
+- customer support
+- checkout(cart)
+- payment system
+- reviews
